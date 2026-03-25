@@ -9,6 +9,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:1c92d2,100:0f2027&height=240&section=header&text=Anushree%20Wath&fontSize=42&fontAlignY=35&desc=DevOps%20Engineer%20•%20Cloud%20•%20Automation%20•%20CI/CD&descSize=20&descAlignY=58&fontColor=00E6FF&animation=twinkling" />
 </p>
 
+### 🚀 About Me
+I am a **DevOps Enthusiast** focused on automating infrastructure and scaling cloud-native applications. My journey is fueled by a passion for building resilient systems and bridge the gap between development and operations.
+
+- 🔭 **Currently working on:** Advanced CI/CD pipelines and EKS deployments.
+- 📚 **Learning Path:** Mastering Cloud Design Patterns & Cost Optimization.
+- 🎯 **Goal:** Transitioning into a **Cloud Solution Architect** role.
+- ⚡ **Fun Fact:** I believe everything is "Code"—if I have to do it twice, I'll script it!
 ---
 
 ## 🧠 About Me (DevOps Mindset)
