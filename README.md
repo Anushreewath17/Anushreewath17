@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:1c92d2,100:0f2027&height=240&section=header&text=Anushree%20Wath&fontSize=42&fontAlignY=35&desc=DevOps%20Engineer%20•%20Cloud%20•%20Automation%20•%20CI/CD&descSize=20&descAlignY=58&fontColor=00E6FF&animation=twinkling" />
 </p>
 
 ---
@@ -40,12 +40,6 @@ focus:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx" />
-</p>
-
-### 💻 Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,python,php" />
 </p>
 
 ---
