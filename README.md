@@ -14,14 +14,12 @@
 ## 🧠 About Me (DevOps Mindset)
 
 ```yaml
-name: Umesh Raut
+name: Anushree Wath
 role: Cloud & DevOps Engineer
 focus:
   - Scalable Infrastructure
   - CI/CD Automation
   - Cloud Architecture (AWS)
-experience: 3+ years (Freelancing)
-currently_learning:
   - Kubernetes Advanced
   - Terraform at Scale
 ```
@@ -55,12 +53,12 @@ currently_learning:
 ## 📊 Performance Dashboard
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umeshraut2002&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushreewath17&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umeshraut2002&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umeshraut2002&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushreewath17&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anushreewath17&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
@@ -68,11 +66,11 @@ currently_learning:
 ## 🧩 DevOps Projects Showcase
 
 <p align="center">
-  <a href="https://github.com/umeshraut2002/devops-cicd-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umeshraut2002&repo=devops-cicd-pipeline&theme=radical" />
+  <a href="https://github.com/anushreewath17/devops-cicd-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anushreewath17&repo=devops-cicd-pipeline&theme=radical" />
   </a>
-  <a href="https://github.com/umeshraut2002/aws-docker-deployment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umeshraut2002&repo=aws-docker-deployment&theme=radical" />
+  <a href="https://github.com/anushreewath17/aws-docker-deployment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anushreewath17&repo=aws-docker-deployment&theme=radical" />
   </a>
 </p>
 
@@ -90,9 +88,9 @@ currently_learning:
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:uraut6044@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/umesh-raut"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/umeshraut2002"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:anushreewath@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/anushreewath/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/anushreewath17"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
